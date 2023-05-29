@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBYI0157A+ovhJy9BxC3ItKp6ZYJDvfV/KeOEagnP6lEl9y2CZWxE5DpP4s42sdYffKLXLchIMs32dmd2kvH9Q==",
+  "dgSpecHash": "ZLi7ArdMkwIRsPMO+TsxHi2bbA2kvsfUruCKms0jidngx5uxOyYOArx/STbaJbVs2qkF7LH1geVAaj+UevaZ6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\Working\\C#\\OptionPricer\\OptionPricerDomainServices\\OptionPricerDomainServices.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\IT Quant\\C#\\OptionPricer\\OptionPricerDomainServices\\OptionPricerDomainServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\mersennetwister\\1.0.6\\mersennetwister.1.0.6.nupkg.sha512",

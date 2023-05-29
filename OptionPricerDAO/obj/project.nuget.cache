@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "prAS1FmvmRRx/YFKE58JJo7oAYgwzv2n4PVeP0xtOOq4c0klk/052zuwqymsCY4wV0eXQOe5vmxzN14DxCbrMA==",
+  "dgSpecHash": "KhsMG6qOGHmvkAp61jO273Y9NLzC+PqQqsyquOfn3fmeMOc+09neRLWRFtoPQtQRs1rshxXu9869YQUw80KVGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\Working\\C#\\OptionPricer\\OptionPricerDAO\\OptionPricerDAO.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\IT Quant\\C#\\OptionPricer\\OptionPricerDAO\\OptionPricerDAO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

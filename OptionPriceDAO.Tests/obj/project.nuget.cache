@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8KitHPMv+/6OeGkxxGq6xVq3LyzfdycaJoYU4saYP1W+aAzmkCc1M8+CHCYjdDr4sZ9BeoCJOkxOUp4c1X08A==",
+  "dgSpecHash": "S+/Bjfit07uYB76++SQOIqQQK1xlxoAAZeEAXrl2VWEG4RQK1u2ARANpaKx/LSVOh01413ofdJVGlVO8DI3jCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\Working\\C#\\OptionPricer\\OptionPriceDAO.Tests\\OptionPriceDAO.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\IT Quant\\C#\\OptionPricer\\OptionPriceDAO.Tests\\OptionPriceDAO.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

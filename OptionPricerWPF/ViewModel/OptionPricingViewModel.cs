@@ -33,6 +33,7 @@ namespace OptionPricerWPF.ViewModel
         private EnumUnderlyingType _underlyingType;
         private EnumOptionSubType _optionSubType;
         private EnumCurrency _currency;
+        private double _timeToMaturityInYears;
         //Domain objects creattion
     
 
@@ -93,6 +94,19 @@ namespace OptionPricerWPF.ViewModel
         }
 
 
+
+        public double TimeToMaturity
+        {
+            get
+            {
+                return (Maturity == DateTime.MinValue) ? 0 : ( Maturity - DateTime.Today).TotalDays / 365;
+            }
+            set
+            {
+                SetProperty(ref _timeToMaturityInYears, value);
+                Maturity = DateTime.Today.AddDays(value * 365);
+            }
+        } 
         public DateTime Maturity
         {
             get

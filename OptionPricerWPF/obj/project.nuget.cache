@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uf1x+RW1jsrNRAAlw3AqKIZ+FkRcen51OAj3zYaBGvpIuz2U66ClIIn1Vas0n2X5JmMx5aAR39C/zM/JaVCU3w==",
+  "dgSpecHash": "zmBojZvGkrzEcMEXHOzvPi7Rcs3lHS1LKJOIoWLCZdabppNDYDzRmY2cBUmD2Geo8ivEySYHEEMiXI5f1zKcRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\Working\\C#\\OptionPricer\\OptionPricerWPF\\OptionPricerWPF.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\IT Quant\\C#\\OptionPricer\\OptionPricerWPF\\OptionPricerWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",

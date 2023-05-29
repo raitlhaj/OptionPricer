@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ov0TCYYRZD9J2DRJjdlpqZ5DkHZ535lq5nwTXpAAFyBhahNvCbtFztYUraL1SQypuQrAM5sv+ZEw3e/Nk2eCVw==",
+  "dgSpecHash": "L0WG3YF147NucasrN063XOBgDB844HVcTWexEYpY/kgLv8hAm4cKigHlSV/2KpStKjeRwg/bW6+yhhUoxX3KNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\Working\\C#\\OptionPricer\\OptionPricerService\\OptionPricerService.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\IT Quant\\C#\\OptionPricer\\OptionPricerService\\OptionPricerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\dryioc.dll\\4.8.8\\dryioc.dll.4.8.8.nupkg.sha512",

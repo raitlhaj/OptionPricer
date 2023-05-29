@@ -20,7 +20,7 @@ namespace OptionPricerDAO
         public OptionDAO()
         {
             // server, DB, Credentials
-            connectionString = @"Data Source=DESKTOP-EG3O2MT\SQLEXPRESS;Initial Catalog=OptionPricing.Db;Integrated Security=True";
+            connectionString = @"Data Source=RACH\SQLEXPRESS;Initial Catalog=OptionPricing.Db;Integrated Security=True";
         }
 
         public void TestSqlReq()

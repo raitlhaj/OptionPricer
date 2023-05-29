@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZhT8UO/2ocQpWW/5Hi+4JaxfoPSvbbwoJgskQIxjdVjAfGrAyoTW6hvN00FTfU3rew1JxEegLpDI6RmQZ6JmbA==",
+  "dgSpecHash": "RHbaoQQRqh0zNmjKh0iCq8BFZ420WGFmFQA3MawhJkSoK5GqC5/5/2G88bGpl2GJAsn/ipaxwImJO6CO6vs3wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\Working\\C#\\OptionPricer\\OptionPricerNETMQService\\OptionPricerNetMQService.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Documents\\MEGA\\IT Quant\\C#\\OptionPricer\\OptionPricerNETMQService\\OptionPricerNetMQService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\dryioc.dll\\4.8.8\\dryioc.dll.4.8.8.nupkg.sha512",
