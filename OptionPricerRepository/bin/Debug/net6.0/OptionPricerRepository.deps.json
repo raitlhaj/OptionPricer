@@ -103,7 +103,10 @@
           "System.Data.SqlClient": "4.8.3"
         },
         "runtime": {
-          "OptionPricerDAO.dll": {}
+          "OptionPricerDAO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OptionPricerDomain/1.0.0": {
@@ -111,7 +114,10 @@
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
-          "OptionPricerDomain.dll": {}
+          "OptionPricerDomain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

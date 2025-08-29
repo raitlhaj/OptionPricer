@@ -8,13 +8,13 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\
 OptionPricerWPF
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\App.xaml
 61248944943
 
 17-134734160
-4021197724237
+402-1141247878
 MainWindow.xaml;Resources\Icons.xaml;Resources\IconsNonShared.xaml;View\InformationView.xaml;View\OptionPricingView.xaml;View\OptionsGetterView.xaml;
 
-True
+False
 

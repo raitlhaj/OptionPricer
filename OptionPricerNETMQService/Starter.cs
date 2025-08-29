@@ -26,6 +26,7 @@ namespace OptionPricerNetMQService
             dependancyInjectionManager.Register<IFacadePricingDomainService, FacadePricingDomainService>();
             dependancyInjectionManager.Register<IOptionService, OptionService>();
             dependancyInjectionManager.Register<ISerialization, Serialization>();
+            dependancyInjectionManager.Register<ILogger, Logger>();
 
         }
 

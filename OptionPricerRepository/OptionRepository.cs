@@ -9,14 +9,11 @@ namespace OptionPricerRepository
         void UpdateOption(Option option1, Option option2);
         List<Option> GetOptions();
         void DeleteOption(Option option);
-
-
     }
 
     public class OptionRepository : IOptionRepository
     {
         private readonly IOptionDAO optionDAO;
-        //public OptionRepository() { }
         public OptionRepository(IOptionDAO optionDAO)
         {
             this.optionDAO = optionDAO;
@@ -26,7 +23,6 @@ namespace OptionPricerRepository
             var optionDTO = FromDomainToDTO(option);
             optionDAO.SetOption(optionDTO);
         }
-
 
         public void UpdateOption(Option oldoption, Option newoption)
         {
@@ -39,7 +35,7 @@ namespace OptionPricerRepository
         {
             var optionDTO = new OptionDTO();
 
-            optionDTO.Strike = option.Strike.StrikeValue;
+            optionDTO.Strike = option.Strike.Value;
             optionDTO.Maturity = option.Maturity.Date;
             optionDTO.TraderName = option.Trader.Name;
             optionDTO.Price = option.OptionPrice.Price;
@@ -58,7 +54,7 @@ namespace OptionPricerRepository
 
         private Option FromDTOTODomain(OptionDTO optionDTO)
         {
-            Strike strike=new Strike(optionDTO.Strike);
+            Strike strike = new Strike(optionDTO.Strike);
             Maturity maturity = new Maturity(optionDTO.Maturity);
             UnderlyingType ulType = (UnderlyingType)Enum.Parse(typeof(UnderlyingType),optionDTO.UnderlyingType);
             Underlying underlyingValue = new Underlying(optionDTO.UnderlyingName, ulType,optionDTO.StockPrice, optionDTO.Volatilty, optionDTO.Rate);
@@ -73,10 +69,8 @@ namespace OptionPricerRepository
         }
         public List<Option> GetOptions()
         {
-            var optionDTOs = new List<OptionDTO>();
             var options = new List<Option>();
-
-            optionDTOs = optionDAO.GetOptions();
+            var optionDTOs = optionDAO.GetOptions();
 
             foreach( var optionDTO in optionDTOs)
             {
@@ -88,11 +82,8 @@ namespace OptionPricerRepository
 
         public void DeleteOption(Option option)
         {
-            var optionDTO=new OptionDTO();
-            optionDTO=FromDomainToDTO(option);
+            var optionDTO = FromDomainToDTO(option);
             optionDAO.DeleteOption(optionDTO);
          }
-
-
     }
 }

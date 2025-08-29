@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptionPricerWPFMigrated")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea7a5367e04e92afaf878db8ea6bcb30483f7fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptionPricerWPFMigrated")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptionPricerWPFMigrated")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

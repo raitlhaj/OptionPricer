@@ -414,9 +414,10 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.csproj.GenerateResource.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.csproj.CoreCompileInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.csproj.CopyComplete
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\refint\OptionPricerWPF.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\ref\OptionPricerWPF.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPricerWPF.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF\obj\Debug\net6.0-windows\OptionPr.A147DE8F.Up2Date

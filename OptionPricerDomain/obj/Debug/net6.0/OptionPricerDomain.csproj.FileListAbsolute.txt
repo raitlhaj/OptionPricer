@@ -46,3 +46,4 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDoma
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain\obj\Debug\net6.0\refint\OptionPricerDomain.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain\obj\Debug\net6.0\OptionPricerDomain.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain\obj\Debug\net6.0\ref\OptionPricerDomain.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain\obj\Debug\net6.0\OptionPricerDomain.sourcelink.json

@@ -46,3 +46,4 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\refint\OptionPricerDAO.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\ref\OptionPricerDAO.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.sourcelink.json

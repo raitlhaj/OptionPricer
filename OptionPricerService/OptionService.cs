@@ -12,8 +12,6 @@ namespace OptionPricerService
          string SerializeOption(Option option);
         void EnrichOptionWithPrice(Option option);
         public void UpdateOption(Option oldOption, Option newOption);
-
-
     }
 
     public class OptionService:IOptionService

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Rachid\Dropbox\Working\C#\OptionPricer\OptionPricerWPF\obj\Debug\
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF.backup\obj\Debug\
 OptionPricerWPF
 none
 false
 DEBUG;TRACE
-C:\Users\Rachid\Dropbox\Working\C#\OptionPricer\OptionPricerWPF\App.xaml
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerWPF.backup\App.xaml
 690589325
 
 162067293821
-162-2121142042
+1621441724230
 MainWindow.xaml;Resources\Icons.xaml;Resources\IconsNonShared.xaml;View\InformationView.xaml;View\OptionPricingView.xaml;View\OptionsGetterView.xaml;
 
-False
+True
 

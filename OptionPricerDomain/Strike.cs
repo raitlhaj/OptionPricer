@@ -8,11 +8,11 @@ namespace OptionPricerDomain
 {
     public class Strike
     {
-        public double StrikeValue;
+        public double Value;
         public Strike(double strike)
         {
             if (strike < 0) throw new Exception("The strike value shouldn't be négative!");
-            this.StrikeValue = strike;
+            this.Value = strike;
         }
     }
 }

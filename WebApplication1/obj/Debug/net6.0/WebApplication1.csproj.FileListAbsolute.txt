@@ -130,9 +130,14 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.endpoints.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\WebApplication1.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\WebApplication1\obj\Debug\net6.0\WebAppli.7D14BD69.Up2Date

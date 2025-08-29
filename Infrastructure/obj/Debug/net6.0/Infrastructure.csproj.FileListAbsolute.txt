@@ -38,8 +38,9 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\o
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastructure.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\Infrastructure\obj\Debug\net6.0\Infrastr.15EFFBFE.Up2Date

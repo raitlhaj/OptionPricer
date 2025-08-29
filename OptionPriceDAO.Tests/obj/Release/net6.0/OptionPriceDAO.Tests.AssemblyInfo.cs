@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptionPriceDAO.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea7a5367e04e92afaf878db8ea6bcb30483f7fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptionPriceDAO.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptionPriceDAO.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

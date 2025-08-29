@@ -1,24 +1,11 @@
 ﻿using NetMQ;
 using NetMQ.Sockets;
 using OptionPricerDomain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-//using NetMQ;
-//using NetMQ.Sockets;
-/*
-using OptionPricerDomain;
-using OptionPricerRepository;
-using OptionPricerDAO;
-using Infrastructure;
-using OptionPricerDomainServices;
-using OptionPricerService; */
+
 
 namespace Infrastructure
 {
-  public class NetMQTransportManager {
+    public class NetMQTransportManager {
         private readonly string address;
         private readonly int port;
         private readonly ISerialization serialiser;

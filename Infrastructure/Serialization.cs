@@ -12,20 +12,12 @@ namespace Infrastructure
          
         public string Serialize<T>(T obj)
         {
-    
             return JsonConvert.SerializeObject(obj);
-
-          //  return JsonSerializer.Serialize<T>(obj, optionSerializer);
         }
 
         public T Deserialize<T>(string str)
         { 
             return JsonConvert.DeserializeObject<T>(str);
-
         }
-
-
-
-
     }
 }

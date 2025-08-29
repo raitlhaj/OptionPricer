@@ -1,11 +1,7 @@
-﻿using OptionPricerDomain;
-using MersenneTwister;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MersenneTwister;
+using OptionPricerDomain;
+using System.Collections.Concurrent;
+using System.Net.WebSockets;
 
 namespace OptionPricerDomainServices
 {
@@ -25,37 +21,51 @@ namespace OptionPricerDomainServices
             return tab;
         }
 
-        public double S(Option option)
+        public double  S(Option option)
         {
             int T = (int)(option.Maturity.Date - DateTime.Now).TotalDays / 252;
             return option.Underlying.SpotPrice * Math.Exp((option.Underlying.Rate - Math.Pow(option.Underlying.Volatility, 2) / 2) * T + option.Underlying.Volatility * BoxmullerMC()[1]);
         }
         public double Price(Option option)
         {
-            double premium = 0, T = (int)(option.Maturity.Date - DateTime.Now).TotalDays / 252, theta = T, St, europeanVal, intrinsecVal, e = 0;
-            double N = 10000;
-
+            int N = 1000000;
+            double premium = 0, T = (int)(option.Maturity.Date - DateTime.Now).TotalDays / 252, theta = T, e = 0;
+            
+            
             if (option.SubOption == SubOption.CALL) e = 1;
             if (option.SubOption == SubOption.PUT) e = -1;
 
-            
-            for (int i = 0; i < N; i++)
+            int numThreads = Environment.ProcessorCount; // use all available cores
+            double[] results = new double[numThreads];
+
+     
+            Thread[] threads = new Thread[numThreads];
+            for (int i = 0; i < numThreads; i++)
             {
-                double ST = S(option);
-                europeanVal = Math.Exp(-option.Underlying.Rate * theta) * ((ST - option.Strike.StrikeValue) * e > 0 ? (ST - option.Strike.StrikeValue) * e : 0);
-
-                for (int k = 0; k < T; k++)
+                int threadIndex = i;
+                threads[i] = new Thread(() =>
                 {
-                    //intrinsec value
-                    St = S(option);
-                    intrinsecVal = Math.Exp(-option.Underlying.Rate * theta) * ((St - option.Strike.StrikeValue) * e > 0 ? (St - option.Strike.StrikeValue) * e : 0);
-                    // if(europeanVal<intrinsecVal ) { std::cout<<std::endl<< "Sec:"<<i<<" Exec possible at time="<<k<< "premium="<<intrinsecVal<<" vs. "<<europeanVal;}
-                }
-
-                premium += europeanVal;
+                var Str = S(option);
+                results[threadIndex] = Math.Exp(-option.Underlying.Rate * theta) * ((Str - option.Strike.Value) * e > 0 ? (S(option) - option.Strike.Value) * e : 0);
+                });
+                threads[i].Start();
             }
 
-            return premium / N;
+            // Wait for all threads to complete
+            foreach (var thread in threads)
+            {
+                thread.Join();
+            }
+
+            // Calculate the final result by averaging the individual thread results
+            double sum = 0;
+            foreach (var result in results)
+            {
+                sum += result;
+            }
+
+       
+            return sum / numThreads;
         }
 
     }

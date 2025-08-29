@@ -31,7 +31,7 @@ namespace OptionPricerDomain
             if(spotPrice<0) throw new Exception("You've to specify a correct spotvalue!");
             if (volatility < 0) throw new Exception("You've to specify a correct volatility!");
 
-            this.Name= name;
+            this.Name = name;
             this.UnderlyingType = underlyingType;
             this.SpotPrice= spotPrice;
             this.Volatility = volatility;

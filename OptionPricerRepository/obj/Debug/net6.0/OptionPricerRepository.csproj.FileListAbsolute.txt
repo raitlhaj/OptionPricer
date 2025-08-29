@@ -44,8 +44,9 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepo
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPricerRepository.AssemblyInfoInputs.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPricerRepository.AssemblyInfo.cs
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPricerRepository.csproj.CoreCompileInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPricerRepository.csproj.CopyComplete
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPricerRepository.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\refint\OptionPricerRepository.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPricerRepository.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\ref\OptionPricerRepository.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPricerRepository.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerRepository\obj\Debug\net6.0\OptionPr.75AFAA5F.Up2Date

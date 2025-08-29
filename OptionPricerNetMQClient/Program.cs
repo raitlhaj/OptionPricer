@@ -33,11 +33,12 @@ using (var requestSocket = new RequestSocket(">tcp://localhost:5555"))
         Strike strikeValue = new Strike(50 + i);
  
         var option = new Option(underlyingValue, maturityDate, strikeValue, optionPriceValue, optionTypeValue, pricingModelValue, subOptionValue, underlyingTypeValue, traderValue);
-        string OptionJSON =optionService.SerializeOption(option);
+        string OptionJSON = optionService.SerializeOption(option);
         requestSocket.SendFrame(OptionJSON);
         var message = requestSocket.ReceiveFrameString();
         Console.WriteLine(message);
         Thread.Sleep(2000);
+
         i++;
     }
 

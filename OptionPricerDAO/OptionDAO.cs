@@ -13,13 +13,13 @@ namespace OptionPricerDAO
         void CleanOptiontbl();
 
     }
-    public class OptionDAO : IDisposable,IOptionDAO
+    public class OptionDAO : IDisposable, IOptionDAO
     {
         private readonly string connectionString;
 
         public OptionDAO()
         {
-            // server, DB, Credentials
+           // server, DB, Credentials
             connectionString = @"Data Source=RACH\SQLEXPRESS;Initial Catalog=OptionPricing.Db;Integrated Security=True";
         }
 
@@ -39,11 +39,9 @@ namespace OptionPricerDAO
                 {
                     //0 = id, 1=second column 
                     System.Console.WriteLine($"Id={dataReader[0]}  and ULType= {dataReader.GetString(1)} ");
-                  
                 }
 
                 sqlConnection.Close();
-
             }
         }
 
@@ -63,11 +61,9 @@ namespace OptionPricerDAO
                 {
                     //0 = id, 1=second column 
                     System.Console.WriteLine($"Id={dataReader[0]}  and ULType= {dataReader.GetString(1)} ");
-
                 }
 
                 sqlConnection.Close();
-
             }
         }
 

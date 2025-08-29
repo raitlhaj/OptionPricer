@@ -304,9 +304,10 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetM
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.AssemblyInfoInputs.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.AssemblyInfo.cs
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.csproj.CoreCompileInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.csproj.CopyComplete
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\refint\OptionPricerNetMQClient.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\ref\OptionPricerNetMQClient.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPricerNetMQClient.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNetMQClient\obj\Debug\net6.0\OptionPr.D1F7CAEC.Up2Date

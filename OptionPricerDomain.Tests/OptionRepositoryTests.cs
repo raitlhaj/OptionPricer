@@ -12,43 +12,46 @@ namespace OptionRepository.Tests
     {
         private readonly IOptionDAO optionDAO;
         private readonly IOptionRepository optionRepository;
-        
+
         public OptionRepositoryTests()
         {
-          // var optionPricerDAO = new OptionDAO();
-         //  var optionRepository = new  OptionRepository(optionPricerDAO);
-          this.optionDAO=Substitute.For<IOptionDAO>();   // creer une fake couche DAO
-          this.optionRepository = new OptionPricerRepository.OptionRepository(this.optionDAO);
+            // var optionPricerDAO = new OptionDAO();
+            //  var optionRepository = new  OptionRepository(optionPricerDAO);
+            this.optionDAO = Substitute.For<IOptionDAO>();   // creer une fake couche DAO
+            this.optionRepository = new OptionPricerRepository.OptionRepository(this.optionDAO);
         }
 
         [SetUp]
         public void Setup()
         {
-         
+
         }
         /*
         [Test]
-       public void InsertOptionDomainTest()
+        public void InsertOptionDomainTest()
         {
-          
+            var optionsExpected = new List<Option>();
 
             var optionA = CreateOptionDomain(133);
             var optionB = CreateOptionDomain(156);
+            var optionDTO1 = CreateOptionDTO("AXAR", "CRR", "EQUITY");
+            var optionDTO2 = CreateOptionDTO("AXAR", "CRR", "EQUITY");
 
-            var optionsExpected = new List<Option>();
+
             optionsExpected.Add(optionA);
             optionsExpected.Add(optionB);
 
             optionRepository.InsertOption(optionA);
             optionRepository.InsertOption(optionA);
-            this.optionDAO.SetOption(optionDTO).Returns();
-            var options = this.optionRepository.
 
+            this.optionDAO.SetOption(optionDTO1).Returns();
+            this.optionDAO.SetOption(optionDTO2).Returns();
 
-            Assert.IsTrue(AssertGetOptionDomain(options, optionDTO));
+            var options = this.optionRepository.GetOptions();
 
-        } 
-        */
+            Assert.IsTrue(AssertGetOptionDomain(options, new List<OptionDTO> { optionDTO1, optionDTO2 }));
+        }
+       
         [Test]
         public void GetOptionsRepositoryTest()
         {
@@ -56,17 +59,17 @@ namespace OptionRepository.Tests
             var optionA = CreateOptionDTO("AXAR", "CRR", "EQUITY");
             var optionB = CreateOptionDTO("AXAR", "BS", "EQUITY");
 
-            List<OptionDTO> optionDTO=new List<OptionDTO>();
+            List<OptionDTO> optionDTO = new List<OptionDTO>();
             optionDTO.Add(optionA);
             optionDTO.Add(optionB);
+
             //action
             this.optionDAO.GetOptions().Returns(optionDTO);
-            List<Option> options= optionRepository.GetOptions();
+            List<Option> options = optionRepository.GetOptions();
 ;            //Asssert
             Assert.IsTrue(AssertGetOptionDomain(options, optionDTO));
         }
 
-/*
         [Test]
         public void UpdateOptionsTest()
         {
@@ -88,7 +91,7 @@ namespace OptionRepository.Tests
 
             //Asssert
             Assert.True(options[0].Equals(optionNew));
-        } */
+        } 
         [Test]
         public void DeleteOptionDomainTest()
         {
@@ -162,5 +165,6 @@ namespace OptionRepository.Tests
             return optionDTO;
         }
 
+    }*/
     }
 }

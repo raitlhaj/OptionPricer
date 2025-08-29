@@ -244,3 +244,12 @@ C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDomain.Tests\
 C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.pdb
 C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.genruntimeconfig.cache
 C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\ref\OptionRepository.Tests.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\refint\OptionRepository.Tests.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDomain.Tests\obj\Debug\net6.0\OptionRepository.Tests.pdb

@@ -304,9 +304,10 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETM
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.AssemblyInfoInputs.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.AssemblyInfo.cs
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.csproj.CoreCompileInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.csproj.CopyComplete
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\refint\OptionPricerNetMQService.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\ref\OptionPricerNetMQService.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPricerNetMQService.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerNETMQService\obj\Debug\net6.0\OptionPr.7ABAB945.Up2Date

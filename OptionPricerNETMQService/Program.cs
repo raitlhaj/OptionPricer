@@ -10,6 +10,7 @@ using (var starter = new Starter())
 {
     starter.RegisterInstancies(); //register all we need in the starter
     var optionService = starter.Resolve<IOptionService>();
+    var log = starter.Resolve<ILogger>();
 
 
     using (var responseSocket = new ResponseSocket("@tcp://*:5555"))
@@ -17,8 +18,9 @@ using (var starter = new Starter())
         while (true)
         {
             var message = responseSocket.ReceiveFrameString();
-            Console.WriteLine($"Server is receiving {message}");
 
+            log.Info($"Server is receiving {message}");
+            
             var optionDeserialized = optionService.DeserializeOption(message);
             optionService.EnrichOptionWithPrice(optionDeserialized);
             optionService.PersistOption(optionDeserialized);
@@ -27,7 +29,7 @@ using (var starter = new Starter())
             string answer = optionService.SerializeOption(optionDeserialized);
             //serialisation & de-serialisation : JSON (String) <=> Objets
             //responseSocket.SendFrame("Hello from Server!");
-            Console.WriteLine($"\n\n the server is answering : {answer}");
+            log.Info($"\n\n the server is answering : {answer}");
 
             responseSocket.SendFrame(answer);
         }

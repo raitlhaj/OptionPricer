@@ -62,8 +62,9 @@ C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerServ
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.AssemblyInfoInputs.cache
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.AssemblyInfo.cs
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.csproj.CoreCompileInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.csproj.CopyComplete
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\refint\OptionPricerService.dll
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.pdb
 C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\ref\OptionPricerService.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPr.EDCDF376.Up2Date

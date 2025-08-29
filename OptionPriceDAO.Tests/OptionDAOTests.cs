@@ -16,7 +16,7 @@ namespace OptionPriceDAO.Tests
         [SetUp]
         public void Setup()
         {
-            
+            Console.WriteLine(" I'm testing my OptionDAOMethods : ");
         }
 
         [Test]
@@ -25,26 +25,28 @@ namespace OptionPriceDAO.Tests
             optionDAO.CleanOptiontbl();
        
             //Arrange
-            var option1 = Create("AXA", "CALL", 50,"01/06/2056" , "EUROPEAN",13, "Will.WAL", 0.07, 0.05, 26, "BS", "EQUITY");
-            var option2 = Create("SG", "CALL", 50, "01/06/2056", "AMERICAN", 12, "Will.WAL", 0.07, 0.05, 25, "BS", "EQUITY");
+            var option1 = Create("AXA", "CALL" ,50 ,"01/06/2056" , "EUROPEAN",13, "Will.WAL", 0.07, 0.05, 26, "BS", "EQUITY");
+            var option2 = Create("SG", "CALL" ,50 , "01/06/2056", "AMERICAN", 12, "Will.WAL", 0.07, 0.05, 25, "BS", "EQUITY");
 
             //Action
             optionDAO.SetOption(option1);
             optionDAO.SetOption(option2);
+
             var optionDTOs = optionDAO.GetOptions();
 
             //Assert
             AssertOptions(option1, optionDTOs[0]);
             AssertOptions(option2, optionDTOs[1]);
         }
+
         [Test]
         public void UpdateAndGetOptionDTOs()
         {
             optionDAO.CleanOptiontbl();
 
             //Arrange
-            var oldOptionDTO = Create("AXA", "CALL", 50, "01/06/2056", "EUROPEAN", 13, "Will.WAL", 0.07, 0.05, 26, "BS", "EQUITY");
-            var newoptionDTO = Create("SG", "CALL", 50.5, "01/06/2056", "AMERICAN", 12, "Will.WAL", 0.07, 0.05, 25, "BS", "EQUITY");
+            var oldOptionDTO = Create("AXA", "CALL", 22, "01/06/2056", "EUROPEAN", 13, "Will.WAL", 0.07, 0.05, 26, "BS", "EQUITY");
+            var newoptionDTO = Create("SG", "CALL", 33, "01/06/2056", "AMERICAN", 12, "Will.WAL", 0.07, 0.05, 25, "BS", "EQUITY");
 
             //Action
             optionDAO.SetOption(oldOptionDTO);
@@ -53,9 +55,9 @@ namespace OptionPriceDAO.Tests
             var optionDTOs = optionDAO.GetOptions();
 
             //Assert
-            AssertOptions(newoptionDTO, optionDTOs[0]);
-            
+            AssertOptions(newoptionDTO, optionDTOs[0]);    
         }
+
         [Test]
         public void DeleteAndGetOptionDTOs()
         {
@@ -72,7 +74,6 @@ namespace OptionPriceDAO.Tests
 
             //Assert
             Assert.IsEmpty( optionDTOs);
-
         }
 
         [Test]
@@ -117,8 +118,5 @@ namespace OptionPriceDAO.Tests
         {
             Assert.True(expected.Equals(reel));
         }
-
-
-
     }
 }
