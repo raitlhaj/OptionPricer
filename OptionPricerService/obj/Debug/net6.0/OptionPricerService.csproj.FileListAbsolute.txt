@@ -44,27 +44,3 @@ C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerService\obj\D
 C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\refint\OptionPricerService.dll
 C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.pdb
 C:\Users\Rachid\Documents\MEGA\Working\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\ref\OptionPricerService.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerService.deps.json
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerService.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerService.pdb
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\Infrastructure.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerDAO.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerDomain.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerDomainServices.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerRepository.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\Infrastructure.pdb
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerDomainServices.pdb
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerRepository.pdb
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerDAO.pdb
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\bin\Debug\net6.0\OptionPricerDomain.pdb
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.csproj.AssemblyReference.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.AssemblyInfoInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.AssemblyInfo.cs
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.csproj.CoreCompileInputs.cache
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\refint\OptionPricerService.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.pdb
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\ref\OptionPricerService.dll
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPricerService.sourcelink.json
-C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerService\obj\Debug\net6.0\OptionPr.EDCDF376.Up2Date

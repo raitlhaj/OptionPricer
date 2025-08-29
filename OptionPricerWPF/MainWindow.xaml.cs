@@ -14,7 +14,7 @@ namespace OptionPricerWPF
         {
              InitializeComponent();
 
-            //Loaded += async (s, e) => await InitializeAsync();
+            Loaded += async (s, e) => await InitializeAsync();
         }
 
         private async Task InitializeAsync()
