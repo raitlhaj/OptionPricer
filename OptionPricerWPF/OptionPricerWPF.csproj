@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <OutputType>WinExe</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWPF>true</UseWPF>
@@ -36,6 +36,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
     <ProjectReference Include="..\OptionPricerDAO\OptionPricerDAO.csproj" />
+    <ProjectReference Include="..\OptionPricerDomainServices.Tests\OptionPricerDomainServices.Tests.csproj" />
     <ProjectReference Include="..\OptionPricerDomainServices\OptionPricerDomainServices.csproj" />
     <ProjectReference Include="..\OptionPricerNetMQClient\OptionPricerNetMQClient.csproj" />
     <ProjectReference Include="..\OptionPricerNETMQService\OptionPricerNetMQService.csproj" />

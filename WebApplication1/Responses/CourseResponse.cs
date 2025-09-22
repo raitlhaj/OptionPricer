@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Responses
+﻿namespace OptionPricerWebApp.Responses
 {
     public class CourseResponse
     {

@@ -34,3 +34,16 @@ C:\Users\Administrateur\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDAO\o
 C:\Users\Administrateur\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\refint\OptionPricerDAO.dll
 C:\Users\Administrateur\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.pdb
 C:\Users\Administrateur\Documents\MEGA\Working\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\ref\OptionPricerDAO.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\bin\Debug\net6.0\OptionPricerDAO.deps.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\bin\Debug\net6.0\OptionPricerDAO.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\bin\Debug\net6.0\OptionPricerDAO.pdb
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.sourcelink.json
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\refint\OptionPricerDAO.dll
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\OptionPricerDAO.pdb
+C:\Users\Administrateur\Documents\MEGA\IT Quant\C#\OptionPricer\OptionPricerDAO\obj\Debug\net6.0\ref\OptionPricerDAO.dll

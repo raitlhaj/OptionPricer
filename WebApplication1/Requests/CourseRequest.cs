@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Requests
+﻿namespace OptionPricerWebApp.Requests
 {
     public class CourseRequest
     {

@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionPricerWPF", "OptionPricerWPF\OptionPricerWPF.csproj", "{EFAFD305-7EF5-4B81-91BA-5DCE05FF9E6C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{AAFCB19A-4691-4F06-98C3-ED2C79E16256}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionPricerWebApp", "WebApplication1\OptionPricerWebApp.csproj", "{AAFCB19A-4691-4F06-98C3-ED2C79E16256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionPricerDomainServices.Tests", "OptionPricerDomainServices.Tests\OptionPricerDomainServices.Tests.csproj", "{F9B23F9A-F6AC-4E9C-B3FA-E8A27E31CF8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{AAFCB19A-4691-4F06-98C3-ED2C79E16256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAFCB19A-4691-4F06-98C3-ED2C79E16256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAFCB19A-4691-4F06-98C3-ED2C79E16256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B23F9A-F6AC-4E9C-B3FA-E8A27E31CF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B23F9A-F6AC-4E9C-B3FA-E8A27E31CF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B23F9A-F6AC-4E9C-B3FA-E8A27E31CF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B23F9A-F6AC-4E9C-B3FA-E8A27E31CF8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

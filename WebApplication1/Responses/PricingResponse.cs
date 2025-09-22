@@ -1,9 +1,9 @@
-﻿using WebApplication1.Requests;
+﻿using OptionPricerWebApp.Requests;
 
-namespace WebApplication1.Responses
+namespace OptionPricerWebApp.Responses
 {
     public class PricingResponse:PricingRequest
     {
-        public double PRICE { get; set; }
+        public double Price { get; set; }
     }
 }

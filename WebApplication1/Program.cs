@@ -1,12 +1,18 @@
+
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen();
-builder.Services.AddApplicationInsightsTelemetry();
+
+builder.Services.AddHttpClient<OptionPricerWebApp.OptionPricerApiClient>(client =>
+{
+   client.BaseAddress = new Uri("https://api.pricing-service.com/"); // Replace with actual base URL
+    client.DefaultRequestHeaders.Add("Accept", "application/json");
+    client.Timeout = TimeSpan.FromSeconds(30); // Set timeout to avoid hanging
+});
 
 var app = builder.Build();
 
@@ -24,3 +30,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+

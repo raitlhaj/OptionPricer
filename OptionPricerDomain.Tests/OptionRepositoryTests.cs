@@ -8,15 +8,14 @@ using System.Collections.Generic;
 
 namespace OptionRepository.Tests
 {
-    public class OptionRepositoryTests
+    public sealed class OptionRepositoryTests
     {
         private readonly IOptionDAO optionDAO;
         private readonly IOptionRepository optionRepository;
 
         public OptionRepositoryTests()
         {
-            // var optionPricerDAO = new OptionDAO();
-            //  var optionRepository = new  OptionRepository(optionPricerDAO);
+  
             this.optionDAO = Substitute.For<IOptionDAO>();   // creer une fake couche DAO
             this.optionRepository = new OptionPricerRepository.OptionRepository(this.optionDAO);
         }
@@ -31,8 +30,7 @@ namespace OptionRepository.Tests
         public void InsertOptionDomainTest()
         {
             var optionsExpected = new List<Option>();
-
-            var optionA = CreateOptionDomain(133);
+                    var optionA = CreateOptionDomain(133);
             var optionB = CreateOptionDomain(156);
             var optionDTO1 = CreateOptionDTO("AXAR", "CRR", "EQUITY");
             var optionDTO2 = CreateOptionDTO("AXAR", "CRR", "EQUITY");
